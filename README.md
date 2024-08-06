@@ -1,4 +1,4 @@
-# Retailer's Product Forecasting Project
+# Retail Recommendation System
 
 This project focuses on forecasting product demand for a retailer, enabling optimized inventory management and efficient stock planning while maintaining high profits. The project leverages Big Data tools such as Hadoop, Spark, Hive, and Zeppelin.
 
